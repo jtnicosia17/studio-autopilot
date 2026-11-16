@@ -200,3 +200,9 @@ Drill (this week): <one specific rep, e.g. "On 10 calls, repeat back every emoti
 
 - `references/playbook.md`: read when you need more depth. It has the full lead-in phrase bank, reframed-question formulas with industry examples, the probing loop worked through, consequence and commitment sequences, tonality drills, the cold/inbound opener variants, and Miner's demos (selling the Rolex, solar, life insurance).
 - `references/sources.md`: read when you need to cite or check where an idea came from (20 sources with URLs, views and one-line takeaways).
+
+## EVOLV product knowledge
+
+Discovery decides the protocol. Find which goal the prospect ranks first (weight loss, body composition, muscle, recovery, sleep, skin, cognition, libido, longevity and so on), because the goal matrix in `references/evolv/evolv-knowledge.md` turns that goal into the compound. Ask about what they've already tried (other peptides, GLP-1s, injections), how comfortable they are with injections, and their schedule, since those choose between the first choice and the alternatives.
+
+The files in `references/evolv/` are generated from the EVOLV Source Brain. If the Project has a newer Source Brain export, that wins.

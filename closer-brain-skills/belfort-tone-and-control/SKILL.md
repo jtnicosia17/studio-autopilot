@@ -232,3 +232,9 @@ Drill (one): e.g. "Record the close chain 20× — certainty → sincerity → '
 
 - **references/playbook.md**: every framework in full. It covers the extended word tracks by situation, how to read the certainty scale, step-by-step looping, the action-threshold pattern, the "Selling Live" demo broken down, body-language detail, and the debate with Grant Cardone. Read it before prepping a hard call, when the live situation isn't covered above, or when writing drills.
 - **references/sources.md**: the 20 sources (plus extras) with links, view counts and a one-line takeaway each. Read it when you need to attribute a quote or point the closer to the original video.
+
+## EVOLV product knowledge
+
+Product mastery is Belfort's first ten (the product) and the fastest way to be seen as an expert. Answer dosing, timing, vial and price questions instantly and exactly from `references/evolv/evolv-knowledge.md` and `evolv-protocol-cheatsheet.md`, and describe each compound in EVOLV's own wording so you can say it with absolute certainty. Hesitating on a product question hands control back to the prospect.
+
+The files in `references/evolv/` are generated from the EVOLV Source Brain. If the Project has a newer Source Brain export, that wins.

@@ -222,6 +222,12 @@ Work in chunks of about 10 calls. After each chunk, update a running ledger (tag
 - `references/playbook.md`: read it when writing rewrites, building a rebuttal for a specific objection, or explaining a principle in depth. It contains every framework with full word tracks, the reviewed calls Owen used to teach each point, and the full leak-tag definitions.
 - `references/sources.md`: read it when the user asks where a principle comes from or wants to watch the original breakdown.
 
+## EVOLV product knowledge
+
+When reviewing an EVOLV call, also check product accuracy against `references/evolv/evolv-knowledge.md`: was the compound right for the stated goal (goal matrix), were prices, doses and pricing rules quoted correctly, and did the rep describe compounds in EVOLV's wording? Tag misses as WRONG-PRODUCT (wrong compound, price, dose or rule) or PRODUCT-STALL (guessed, hesitated or said "let me check" on something the knowledge file answers).
+
+The files in `references/evolv/` are generated from the EVOLV Source Brain. If the Project has a newer Source Brain export, that wins.
+
 ---
 # Extended playbook
 

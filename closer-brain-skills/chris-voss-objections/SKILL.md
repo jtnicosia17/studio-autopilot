@@ -176,3 +176,9 @@ If there are no timestamps, quote the line instead. Judge only the objection mom
 
 - `references/playbook.md`: read when you need the deeper version: every tool explained (labels including mislabels and flip-side labels, mirrors, summaries, the three negotiator types, the deal-making stairway, forced empathy, bargaining and the Ackerman sequence from the book), extended word tracks for each common sales objection, ghost and follow-up scripts, and the case stories that show each move. Use it in Prep mode and for any objection not covered above.
 - `references/sources.md`: read when you need to cite or check where a technique comes from. It lists the 20 sources scraped (5 Black Swan channel videos, 5 long-form interviews, 10 top Shorts) with views and a one-line takeaway each.
+
+## EVOLV product knowledge
+
+Know the product answers before labelling: "too expensive" has real step-downs (Interac, monthly / phase purchases), "will it work for me?" gets EVOLV's own wording and evidence level for that compound, and "needles scare me" can go to pens where a pen version exists. All of it is in `references/evolv/evolv-knowledge.md`. Label the fear first, then give the exact answer calmly.
+
+The files in `references/evolv/` are generated from the EVOLV Source Brain. If the Project has a newer Source Brain export, that wins.

@@ -7,7 +7,7 @@ description: The Evolv Closer Brain. One sales system that combines six expert m
 
 This skill turns six sales experts into one way of running and reviewing an Evolv call. Each expert owns the part of the call they're best at. This file is the conductor: it says who leads at each moment, how to settle conflicts between them, and how to score calls the same way every time so 120 reviews can be compared.
 
-**Evolv specifics** (products, pricing, offers, approved claims, ideal customer, the closer's own call data) come from the Project knowledge, not from this skill. Always pull them from there. If something Evolv-specific is missing (e.g. the price or the guarantee terms), ask instead of inventing it.
+**Evolv product knowledge is bundled** in `references/evolv/` and generated from the EVOLV Source Brain (the release name is at the top of `evolv-knowledge.md`). It covers every peptide, its price, dose, schedule and cycle, which compound fits which goal, how to describe each one, and the 12-Week Best Value and monthly pricing rules. Use it on every call so recommendations, prices and answers are exact. If the Project holds a newer Source Brain export or the closer gives a newer number, that wins over the bundled snapshot.
 
 ## 1. The team, and when to call each one
 
@@ -48,20 +48,22 @@ If they don't close: book a specific next call (not "I'll follow up"), and use V
 - **Yes-questions or no-questions?** Prefer no-oriented questions for asks ("Would you be against…", "Is it a ridiculous idea…"). Saying "no" feels safe, so the prospect answers more honestly.
 - **Who talks?** In discovery, the prospect. In the offer, the rep, briefly. After any ask, nobody: whoever speaks first after an ask usually loses.
 
-## 4. Evolv guardrails (peptides)
+## 4. Selling EVOLV peptides
 
-Peptide sales are a place where one careless line can cost a refund, a chargeback or a regulatory problem. It also costs trust, and trust is the "juice" every method here depends on.
-- Make only the product claims approved in the Evolv Project knowledge. Never say a product treats, cures or prevents a disease, and never promise a specific health or body result.
-- Guarantees (Hormozi) cover terms, service and process, never health outcomes.
-- Medical questions (medications, conditions, pregnancy, dosing for a condition): acknowledge the question, recommend they check with their doctor, and keep going. That's a credibility builder, not a lost sale.
-- No fake scarcity or made-up social proof (Owen's WHITE-LIE). Use only real numbers and real deadlines.
+Product mastery is the "juice" behind every stage: the closer who knows the exact compound, dose, cycle and price for the prospect's goal sounds like the expert (Belfort), and experts get deferred to.
 
-In reviews, flag any breach with the tag `CLAIM-RISK`, even if the call closed.
+- **Match the goal to the protocol.** Take the goal(s) the prospect ranked in discovery and use the *Goal → recommended protocol* section of `references/evolv/evolv-knowledge.md`: lead with the first choice, add the support compound when it fits, and keep the alternatives for when their history, budget or preference calls for one.
+- **Build the offer from it (Hormozi/Daniel G).** The game plan is the 12-week protocol: what they take, when, and what the first weeks look like (see `evolv-protocol-cheatsheet.md`). Make it feel simple: one injection, a set time, a clear phase schedule.
+- **Price from the real numbers.** Use the catalogue prices and the pricing rules: anchor on the 12-Week Best Value plan (pack savings plus 10%, or 15% with Interac), then step down to monthly / phase purchases. Add $20 BAC water where needed and remember free shipping at $400+. Never invent a discount outside these rules.
+- **Describe compounds in EVOLV's words.** Each compound has EVOLV's own client-facing wording and evidence level in `evolv-knowledge.md`. Using it lets the closer speak with certainty and keeps every answer accurate, which is what Owen calls proof over promise.
+- **Answer product questions directly.** Dosing, timing, how many vials, pens versus vials, what's in a blend: answer from the cheat sheet with confidence and keep the call moving. A fast, exact answer builds the expert frame; "let me check" loses it.
+- **Use EVOLV's process.** `evolv-sales-process.md` has the consultation intake and the investment summary flow. Fit the call flow above around them, and use the booking / investment-review links in `evolv-knowledge.md` for next steps.
 
 ## 5. How to use this skill
 
 **Prep a call** (given lead notes or a booked call): give a one-screen plan:
 - likely pain and goal
+- the EVOLV protocol that fits the goal, with the 12-Week Best Value total and the monthly step-down price
 - 5 discovery questions tailored to this lead
 - the blockers to pre-handle
 - an offer outline (game plan in their terms)
@@ -91,9 +93,9 @@ Score each criterion 1–5. A 1 means absent or harmful, 3 means present but gen
 | ASK | The ask | Daniel G | A clear "would you be against…" ask, then silence |
 | OBJ | Objection handling | Voss / Daniel G | Labels, "that's right", real objection found, 3+ attempts that each add something new |
 | TON | Tone & control | Belfort | The right tone for each stage; the rep controls the frame; certain, never needy |
-| INT | Integrity & compliance | Owen / Evolv | Proof over promise, no white lies, no CLAIM-RISK |
+| INT | Product mastery & integrity | Owen / Evolv | Right compound for the goal, exact doses and prices, EVOLV wording, proof over promise, no white lies |
 
-**Total out of 50.** Grades: A = 45 or more, B = 38–44, C = 30–37, D = 22–29, F = under 22. A CLAIM-RISK caps INT at 1.
+**Total out of 50.** Grades: A = 45 or more, B = 38–44, C = 30–37, D = 22–29, F = under 22.
 
 **Leak tags.** Use only these, so the counts add up across calls:
 - Owen's tags: HOW-ARE-YOU, NO-CONTEXT, VAGUE-PAIN, NO-DREAM, ANSWERED-NOT-ASKED, STEAL-SPACE, OBSCURE-NUMBER, PUSHED-CONCLUSION, WHITE-LIE, KNOCK-COMPETITION, NO-CHECK, NO-PREFRAME, PRICE-APOLOGY, EARLY-TIEDOWN, NO-ASK, HIDDEN-OBJ, SOFT-AFTER-OBJ, THANK-AT-CLOSE, TEXT-SAVE. They're defined in Owen's reference file.
@@ -111,7 +113,8 @@ Score each criterion 1–5. A 1 means absent or harmful, 3 means present but gen
 | YES-STACK | Chained "makes sense, right?"-type tie-downs | Voss |
 | LOST-FRAME | The prospect took over the agenda and the rep never brought it back | Belfort |
 | FLAT-TONE | Monotone or hype, with the tone not matched to the stage | Belfort |
-| CLAIM-RISK | A health or medical claim outside the approved claims | Evolv |
+| WRONG-PRODUCT | Recommended a compound that doesn't match the goal matrix, or got a price, dose or pricing rule wrong | Evolv |
+| PRODUCT-STALL | Hesitated, guessed or said "let me check" on a product question the knowledge file answers | Evolv |
 
 Strengths use Owen's positive labels: PAIN+DREAM, PROOF, DETACHED, PLAYFUL, SETUP-QUESTION, EXTRAPOLATE, REDUCE, PREFRAME, HIDDEN-OBJ-FOUND, PEACE-CLOSE, IDENTITY-CLOSE, UNEXPECTED-VALUE, REFERENCED-THEM.
 
@@ -173,6 +176,10 @@ Lost at: <stage + TAG>  (non-closes only)
 **Batch rules:** quote verbatim (if the transcript is garbled, say so). A pattern needs at least 3 calls or 10% of the batch, whichever is bigger; anything less is an anecdote. Use the same rubric for every call; spot-check early calls against late ones so the scoring doesn't get easier as the batch goes on. Rank by money impact: a leak that shows up in lost calls matters more than one that shows up in closed calls.
 
 ## 8. References
+
+- `references/evolv/evolv-knowledge.md`: pricing rules, goal → protocol matrix, full catalogue with prices and doses, how to describe each compound, recent updates, links. Read it for any prep, offer, price or product question.
+- `references/evolv/evolv-protocol-cheatsheet.md`: phase-by-phase dosing, preparation and pen dosing. Read only the section for the compound in question.
+- `references/evolv/evolv-sales-process.md`: EVOLV's consultation intake, investment summary process and discount policy.
 
 - `references/experts/<expert>.md`: the full method, word tracks, mistakes and scorecard for each expert. Read the one that owns the stage you're working on.
 - `references/sources/<expert>.md`: the videos, podcasts and posts each method was built from. Read when asked where an idea comes from.

@@ -172,3 +172,9 @@ Hand-offs: [which other expert should look at what, if anything]
 
 - `references/playbook.md`: read before writing a prep plan or a long review, or when you need more than one frame for a money objection. It covers the full value equation and offer-stacking, all four guarantee types plus stacking, the diagnostic price-to-goal method with a worked example, payment step-down math, the "onion of blame" behind every money excuse, the full money and avoidance close library, 3A reframing, tiering and anchoring (the magnetic middle), and the post-sale handshake.
 - `references/sources.md`: read when the user asks where an idea came from or wants to study the original. Lists the 20+ sources with URLs, views and a one-line takeaway each.
+
+## EVOLV product knowledge
+
+Price from the real numbers in `references/evolv/evolv-knowledge.md`: the catalogue prices and the pricing rules. The anchor is the 12-Week Best Value plan (3-pack 6% or 5-pack 10% savings, then 10% off, or 15% with Interac). The step-downs are Interac, then monthly / phase purchases at regular price (5% off with Interac). Add BAC water ($20 per 10 mL) and note free shipping at $400+. Never cut price outside these rules. Build the value stack from the protocol itself: the right compound for their goal, the phase schedule, and the personalised protocol documents.
+
+The files in `references/evolv/` are generated from the EVOLV Source Brain. If the Project has a newer Source Brain export, that wins.

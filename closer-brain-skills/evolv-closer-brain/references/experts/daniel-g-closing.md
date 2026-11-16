@@ -182,6 +182,12 @@ If there are no timestamps, quote the line and give its approximate position (ea
 - `references/playbook.md`: read it when you need extended word tracks, the full 3-attempt ladders for money, spouse, think-about-it and "send me info", the Triple M script, game-plan examples, buyer states (defensive / hyped / ready), and the follow-up and walk-away rules.
 - `references/sources.md`: the 20 sources (5 YouTube, 5 podcasts, 10 reels) with URLs, views and one-line takeaways. Read it when asked where an idea came from, or to cite Daniel G.
 
+## EVOLV product knowledge
+
+The game plan is the EVOLV 12-week protocol: the compound matched to their goal, the phase schedule, and what weeks 1–4 look like (`references/evolv/evolv-protocol-cheatsheet.md`). Make Money Minimal with the real 12-week total divided by days. For payment, lead with the 12-Week Best Value plan, then use Interac's extra 5% as the reason to pay today, with monthly / phase purchases as the fallback (`references/evolv/evolv-knowledge.md`).
+
+The files in `references/evolv/` are generated from the EVOLV Source Brain. If the Project has a newer Source Brain export, that wins.
+
 ---
 # Extended playbook
 
