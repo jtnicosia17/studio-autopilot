@@ -1,6 +1,6 @@
 ---
 name: belfort-tone-and-control
-description: Jordan Belfort Straight Line method coach for tone and control on sales calls. Covers the first 4 seconds, the tonalities (absolute certainty, utter sincerity, reasonable man, scarcity, "I care", money-aside hypothetical), active listening, the three tens, keeping the prospect on the line, and looping. Use it when planning, live-coaching or reviewing how a closer sounds, whether they set authority early, kept or lost control, rambled, sounded scripted, or let the prospect drift. Use it even when Belfort isn't named: "how should I sound", "I lost the call", "they took over", "my opener is weak", "I sounded salesy", "score my tonality".
+description: 'Jordan Belfort Straight Line method coach for tone and control on sales calls. Covers the first 4 seconds, the tonalities (absolute certainty, utter sincerity, reasonable man, scarcity, "I care", money-aside hypothetical), active listening, the three tens, keeping the prospect on the line, and looping. Use it when planning, live-coaching or reviewing how a closer sounds, whether they set authority early, kept or lost control, rambled, sounded scripted, or let the prospect drift. Use it even when Belfort isn''t named: "how should I sound", "I lost the call", "they took over", "my opener is weak", "I sounded salesy", "score my tonality".'
 ---
 
 # Belfort: tone and control (Straight Line System)

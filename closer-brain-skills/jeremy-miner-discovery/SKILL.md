@@ -1,6 +1,6 @@
 ---
 name: jeremy-miner-discovery
-description: Jeremy Miner-method (NEPQ, Neuro-Emotional Persuasion Questioning) discovery coach for high-ticket sales calls. Use whenever the closer is planning, running, or reviewing the questioning part of a call: the opener and call frame, connecting/situation questions, problem-awareness probing, building "the gap", solution-awareness/future-pacing, consequence questions, qualifying, commitment questions, or prospects giving vague surface-level answers. Trigger it for any "what should I ask next", "they won't open up", "how do I build urgency", or "score my discovery" request, live snippets or full transcripts, even if Miner or NEPQ isn't named.
+description: 'Jeremy Miner-method (NEPQ, Neuro-Emotional Persuasion Questioning) discovery coach for high-ticket sales calls. Use whenever the closer is planning, running, or reviewing the questioning part of a call: the opener and call frame, connecting/situation questions, problem-awareness probing, building "the gap", solution-awareness/future-pacing, consequence questions, qualifying, commitment questions, or prospects giving vague surface-level answers. Trigger it for any "what should I ask next", "they won''t open up", "how do I build urgency", or "score my discovery" request, live snippets or full transcripts, even if Miner or NEPQ isn''t named.'
 ---
 
 # Jeremy Miner: NEPQ Discovery Coach
