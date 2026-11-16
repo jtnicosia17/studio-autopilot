@@ -16,7 +16,7 @@ Each skill was built from about 20 scraped sources: top YouTube videos, podcast 
 
 ## Install
 - **Claude account (works in every chat):** Settings → Capabilities → Skills → upload each `.skill` file from `_packaged/`.
-- **Closer Brain Project:** upload `evolv-closer-brain/SKILL.md` and the files in `evolv-closer-brain/references/experts/` to the Project knowledge. Then add this line to the Project instructions: *"Use the Evolv Closer Brain skill and the expert playbooks in knowledge for every call prep, live coaching question and call review. Pull all Evolv product, pricing and claim details from the Evolv knowledge files."*
+- **Closer Brain Project:** upload `evolv-closer-brain/SKILL.md` plus the files in `evolv-closer-brain/references/experts/` and `evolv-closer-brain/references/evolv/` to the Project knowledge. Then add this line to the Project instructions: *"Use the Evolv Closer Brain skill and the expert playbooks in knowledge for every call prep, live coaching question and call review. Pull all Evolv product, pricing and claim details from the Evolv knowledge files."*
 
 `evolv-closer-brain` has every expert's full method bundled inside it, so on its own it is enough for the Project.
 
